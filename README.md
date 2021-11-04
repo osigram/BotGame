@@ -9,6 +9,6 @@ This is a small telegram bot written using Python.
 
 2. Create *token.json* file with your telegram bot token.
 ##### *token.json* format:
-    "TOKEN"
+  `"TOKEN"` 
 
 3. Enjoy!
